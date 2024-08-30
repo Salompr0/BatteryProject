@@ -1,2 +1,2 @@
 # BatteryProject
-JavaScript, jQuery - Battery Project
+JavaScript - Battery Project
